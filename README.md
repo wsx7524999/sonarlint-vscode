@@ -1,4 +1,4 @@
-# SonarQube for IDE: Visual Studio Code (formerly SonarLint)
+wsx7524999@outlook.com # SonarQube for IDE: Visual Studio Code (formerly SonarLint)
 
 SonarQube for IDE by [Sonar](https://www.sonarsource.com/) is a free, sophisticated static analysis tool that enhances your code quality and security. Analyze your code early—as you write or generate it. Local analysis automatically identifies quality and security issues in real-time, even with AI-generated code. Fix issues found using QuickFix or the AI CodeFix feature, before pushing to your SCM. This ensures your code meets your quality standards and is safe for running in production. 
 
